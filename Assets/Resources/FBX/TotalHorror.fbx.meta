@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: b87c10837d660a6468106ec768f3c50f
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: TotalHorror
+  - first:
+      74: -3100369314251171874
+    second: Idle
+  - first:
+      74: -3693587492351232173
+    second: IdleB
+  - first:
+      74: 2667949614841947897
+    second: Walk
+  - first:
+      74: 3426239374228711168
+    second: AttackA
+  - first:
+      74: 6299068577432064862
+    second: AttackB
+  - first:
+      74: -1304387373167265313
+    second: Hit
+  - first:
+      74: 4348485665485846014
+    second: Death
+  - first:
+      74: -2102467013930949317
+    second: Getup
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TotalHorror
+    second: {fileID: 2100000, guid: 8867398aff4e7944899075a8f1fdc8b7, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IdleB
+      takeName: IdleB
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackA
+      takeName: AttackA
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackB
+      takeName: AttackB
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit
+      takeName: Hit
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Death
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Getup
+      takeName: Getup
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.28
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: TotalHorror(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Scene_Root
+      parentName: TotalHorror(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Skeleton
+      parentName: Scene_Root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Skeleton_GlobalSRT
+      parentName: Biped_Skeleton
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.08874296, y: -0.031455774, z: 0.09723038, w: 0.9907984}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Skeleton_UpperBody
+      parentName: Biped_Skeleton_GlobalSRT
+      position: {x: -0.00003892, y: 3.2046947, z: -0.14843304}
+      rotation: {x: 0.00009000002, y: 2.3717376e-15, z: -0.00024700005, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Biped_Skeleton_SpineRoot
+      parentName: Biped_Skeleton_UpperBody
+      position: {x: -0, y: 0.13305573, z: -0.03571204}
+      rotation: {x: -0, y: -0.7071064, z: 0, w: 0.7071072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Skeleton_Spine1
+      parentName: Biped_Skeleton_SpineRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.0027115045, y: -0.026078071, z: -0.89028037, w: 0.45465752}
+      scale: {x: 0.9999987, y: 1.0000007, z: 1.0000001}
+    - name: Biped_Skeleton_Spine2
+      parentName: Biped_Skeleton_Spine1
+      position: {x: -0.2734172, y: 0, z: 0}
+      rotation: {x: -0.012371618, y: 0.02067445, z: -0.24772786, w: -0.96853006}
+      scale: {x: 0.9999994, y: 1.000002, z: 1.0000004}
+    - name: Biped_Skeleton_Spine3
+      parentName: Biped_Skeleton_Spine2
+      position: {x: -0.26066992, y: 0, z: 0}
+      rotation: {x: -0.0023154241, y: -0.002915316, z: -0.47783417, w: -0.87844217}
+      scale: {x: 0.99999934, y: 0.9999996, z: 0.9999997}
+    - name: Biped_Skeleton_Chest
+      parentName: Biped_Skeleton_Spine3
+      position: {x: -0.27020618, y: 0, z: 0}
+      rotation: {x: 0.04173874, y: -0.03986028, z: -0.10520626, w: 0.99277425}
+      scale: {x: 0.99999887, y: 1.0000017, z: 1.0000007}
+    - name: Biped_Skeleton_ChestEffector
+      parentName: Biped_Skeleton_Chest
+      position: {x: -0.7059979, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Skeleton_RShoulderRoot
+      parentName: Biped_Skeleton_ChestEffector
+      position: {x: 0.25279042, y: 0.55056626, z: -0.15283716}
+      rotation: {x: 0.079338044, y: -0.70264125, z: 0.7026423, w: -0.07933809}
+      scale: {x: 1.0000001, y: 0.9999996, z: 1.0000006}
+    - name: Biped_Skeleton_RShoulder
+      parentName: Biped_Skeleton_RShoulderRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.74127907, y: -0.6711734, z: 0.0045123314, w: 0.0033525222}
+      scale: {x: 0.99999887, y: 1.0000019, z: 1.0000002}
+    - name: Biped_Skeleton_eff
+      parentName: Biped_Skeleton_RShoulder
+      position: {x: -0.38250044, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Skeleton_RRoot
+      parentName: Biped_Skeleton_eff
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.74128985, y: -0.67116296, z: 0.004044898, w: -0.003662927}
+      scale: {x: 1, y: 1.0000002, z: 0.99999857}
+    - name: Biped_Skeleton_RBicep
+      parentName: Biped_Skeleton_RRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.025629332, y: 0.022060923, z: 0.7574595, w: -0.65200585}
+      scale: {x: 0.9999984, y: 1.0000019, z: 1.0000005}
+    - name: Biped_Skeleton_LShoulderRoot
+      parentName: Biped_Skeleton_ChestEffector
+      position: {x: 0.25279042, y: 0.55056626, z: 0.15283716}
+      rotation: {x: 0.55294347, y: -0.44074222, z: -0.5529427, w: -0.4407428}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999998}
+    - name: Biped_Skeleton_LShoulder
+      parentName: Biped_Skeleton_LShoulderRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00082875777, y: -0.0053950534, z: -0.04959791, w: -0.9987543}
+      scale: {x: 0.99999946, y: 1.0000008, z: 0.99999875}
+    - name: Biped_Skeleton_eff1
+      parentName: Biped_Skeleton_LShoulder
+      position: {x: -0.38250044, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Skeleton_LRoot
+      parentName: Biped_Skeleton_eff1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00027107692, y: -0.005450041, z: -0.049587004, w: 0.9987549}
+      scale: {x: 1.0000005, y: 0.99999964, z: 0.99999845}
+    - name: Biped_Skeleton_LBicep
+      parentName: Biped_Skeleton_LRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0005488806, y: -0.010698968, z: -0.05118358, w: 0.99863183}
+      scale: {x: 1.0000007, y: 1.0000004, z: 0.9999995}
+    - name: Biped_Skeleton_SpineRoot1
+      parentName: Biped_Skeleton_ChestEffector
+      position: {x: 0.28879508, y: 0.57142174, z: 0.000070840004}
+      rotation: {x: 0, y: 0, z: 0.11220097, w: 0.99368554}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Biped_Skeleton_Spine4
+      parentName: Biped_Skeleton_SpineRoot1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.03965308, y: -0.030870244, z: 0.7160501, w: -0.6962378}
+      scale: {x: 0.99999845, y: 1.0000001, z: 0.9999998}
+    - name: Biped_Skeleton_Spine5
+      parentName: Biped_Skeleton_Spine4
+      position: {x: -0.19333357, y: 0, z: 0}
+      rotation: {x: 0.009024244, y: 0.51931405, z: -0.03308153, w: 0.8538953}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: Biped_Skeleton_Spine6
+      parentName: Biped_Skeleton_Spine5
+      position: {x: -0.19395348, y: 0, z: 0}
+      rotation: {x: -0.04139856, y: 0.11208149, z: 0.0068963235, w: 0.9928124}
+      scale: {x: 1, y: 1.0000007, z: 1.0000005}
+    - name: Biped_Skeleton_Spine7
+      parentName: Biped_Skeleton_Spine6
+      position: {x: -0.19419624, y: 0, z: 0}
+      rotation: {x: -0.04322052, y: 0.028436644, z: -0.011178494, w: 0.9985983}
+      scale: {x: 0.99999845, y: 1.0000002, z: 0.9999996}
+    - name: Biped_Skeleton_Chest1
+      parentName: Biped_Skeleton_Spine7
+      position: {x: -0.19424523, y: 0, z: 0}
+      rotation: {x: 0.032449644, y: 0.5084463, z: -0.46939194, w: -0.72117996}
+      scale: {x: 1.0000006, y: 0.99999875, z: 0.9999998}
+    - name: Bone
+      parentName: Biped_Skeleton_Chest1
+      position: {x: 0.00753788, y: 0.1566558, z: 0.05722668}
+      rotation: {x: -0.55639875, y: 0.18735713, z: 0.6357663, w: 0.5011177}
+      scale: {x: 0.999999, y: 1.0000069, z: 0.9999948}
+    - name: Bone1
+      parentName: Bone
+      position: {x: -0.017658759, y: -0.16333295, z: 0.06318648}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone2
+      parentName: Bone
+      position: {x: -0.00097132, y: -0.06414968, z: 0.085258044}
+      rotation: {x: -0.00000025, y: -0.00000024999974, z: -5.832079e-20, w: 1}
+      scale: {x: 1.0000017, y: 0.9999985, z: 0.9999998}
+    - name: Bone3
+      parentName: Bone2
+      position: {x: -0, y: -0.023535961, z: 0.03210228}
+      rotation: {x: 0.41001967, y: 0.0000050410886, z: 0.0000018644479, w: 0.91207665}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+    - name: Bone4
+      parentName: Bone3
+      position: {x: -0, y: 0.012084239, z: 0.04632264}
+      rotation: {x: -0, y: -0, z: 7.640214e-17, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: Bone5
+      parentName: Bone4
+      position: {x: -0.00206332, y: -0.0082922, z: 0.0688884}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Bone6
+      parentName: Bone5
+      position: {x: -0, y: -0.014098, z: 0.08861748}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999997, z: 0.9999995}
+    - name: Bone7
+      parentName: Bone6
+      position: {x: -0.00196196, y: -0.01648668, z: 0.10413424}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Bone8
+      parentName: Bone7
+      position: {x: -0.00068208, y: 0.0037942799, z: 0.07221592}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Bone9
+      parentName: Bone8
+      position: {x: -0, y: 0.0161126, z: 0.09465932}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Skeleton_LRoot1
+      parentName: Biped_Skeleton_UpperBody
+      position: {x: -0.27880526, y: -0.19958344, z: 0.0535682}
+      rotation: {x: 0.007919022, y: -0.006816997, z: -0.025207931, w: 0.99962765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Skeleton_LThigh
+      parentName: Biped_Skeleton_LRoot1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.5502701, y: -0.43612865, z: 0.5789178, w: 0.41454667}
+      scale: {x: 0.9999984, y: 0.99999976, z: 1.0000018}
+    - name: Biped_Skeleton_LShin
+      parentName: Biped_Skeleton_LThigh
+      position: {x: -1.3466295, y: 0, z: 0}
+      rotation: {x: 0.6764354, y: -0.16335337, z: -0.22242603, w: 0.68284523}
+      scale: {x: 0.99999857, y: 0.9999998, z: 1.0000017}
+    - name: Biped_Skeleton_RRoot1
+      parentName: Biped_Skeleton_UpperBody
+      position: {x: 0.27880526, y: -0.19958344, z: 0.0535682}
+      rotation: {x: -0.17623833, y: 0.017728444, z: -0.03874, w: 0.98342514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Skeleton_RThigh
+      parentName: Biped_Skeleton_RRoot1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.3916753, y: -0.58759564, z: 0.38903183, w: 0.5915878}
+      scale: {x: 1.000001, y: 0.99999756, z: 1}
+    - name: Biped_Skeleton_RShin
+      parentName: Biped_Skeleton_RThigh
+      position: {x: -1.3466295, y: 0, z: 0}
+      rotation: {x: 0.70770043, y: -0.000000014901161, z: -0, w: -0.7065127}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Body
+      parentName: TotalHorror(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DefaultLib_FacelessHorror
+      parentName: TotalHorror(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DefaultLib_FacelessHorror1
+      parentName: TotalHorror(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DefaultLib_FacelessHorror0
+      parentName: TotalHorror(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DefaultLib_FacelessHorror10
+      parentName: TotalHorror(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Form2
+      parentName: TotalHorror(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TotalHorror
+      parentName: TotalHorror(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.28
+    rootMotionBoneName: Scene_Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

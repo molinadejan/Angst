@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UISmall
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c7c69d6cabc4a3544a83b36907d4ea07, type: 3}
+    - {fileID: 102900000, guid: 1e4058158e61c5b4ba58b6ad18078e8a, type: 3}
+    - {fileID: 102900000, guid: 42daddb0b763cfb4794c87ed46efab4b, type: 3}
+    - {fileID: 102900000, guid: 653c91b2f22751846bc3ed7898969ca6, type: 3}
+    totalSpriteSurfaceArea: 1362265
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f0299d1078597394f8e6dda347b1527f, type: 3}
+  - {fileID: 21300000, guid: b41af081046597b42b55d7efa10d8412, type: 3}
+  - {fileID: 21300000, guid: cc2a78921ffb11f40becf24ad3c1acf4, type: 3}
+  - {fileID: 21300000, guid: bc8fe13399f69f54aa0614f51344a88d, type: 3}
+  - {fileID: 21300000, guid: d60d43731b0d1884595e91c470bdc1f7, type: 3}
+  - {fileID: 21300000, guid: ee010ba39b94ac0458d1b48f48ff7f99, type: 3}
+  - {fileID: 21300000, guid: 726f08b3e2a5cef4ab491fd96fb914d3, type: 3}
+  - {fileID: 21300000, guid: 276eb7f5a7be3b5439c178a97760ef36, type: 3}
+  - {fileID: 21300000, guid: db9269c81bfd04e47b15da24adae3436, type: 3}
+  - {fileID: 21300000, guid: 4630aad8e65ddf14eabf09c2f6f836f9, type: 3}
+  - {fileID: 21300000, guid: aacf37c90a940fc4895284a15a6fe911, type: 3}
+  - {fileID: 21300000, guid: 26c9882aa07e30749921de69f3877248, type: 3}
+  - {fileID: 21300000, guid: e1988b7a42534fc449720071aca29357, type: 3}
+  - {fileID: 21300000, guid: 09f3ebdbfefd1ce469e710d8e990a934, type: 3}
+  - {fileID: 21300000, guid: 6f0b2ceb1569f1b43a58e49f5c998e30, type: 3}
+  - {fileID: 21300000, guid: 5c75d6bcf956ab3448c1929617d4ff32, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Doll
+  - 19
+  - HW-Logo-1-006
+  - Stress
+  - blood
+  - HW-Logo-1-004
+  - pill
+  - HW-Logo-1-007
+  - HW-Logo-1-005
+  - HW-Logo-1-009
+  - pngegg
+  - HW-Logo-1-002
+  - HW-Logo-1-003
+  - HW-Logo-1-001
+  - HW-Logo-1-008
+  - Mute
+  m_Tag: UISmall
+  m_IsVariant: 0
