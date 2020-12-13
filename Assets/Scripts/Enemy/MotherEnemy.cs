@@ -288,7 +288,7 @@ public class MotherEnemy : MonoBehaviour
     // 대기 상태
     private IEnumerator Idle()
     {
-        print("Enemy Idle");
+        //print("Enemy Idle");
 
         anim.SetBool(EnemyAnimState.Walk.ToString(), false);
 
@@ -320,7 +320,7 @@ public class MotherEnemy : MonoBehaviour
     // 정찰 상태
     private IEnumerator Patrol()
     {
-        print("Enemy Patrol");
+        //print("Enemy Patrol");
 
         anim.SetBool(EnemyAnimState.Walk.ToString(), true);
 
@@ -359,7 +359,7 @@ public class MotherEnemy : MonoBehaviour
     // 추적 상태
     private IEnumerator Chase()
     {
-        print("Enemy Chase");
+        //print("Enemy Chase");
         
         anim.SetBool(EnemyAnimState.Walk.ToString(), true);
 
@@ -395,7 +395,7 @@ public class MotherEnemy : MonoBehaviour
     // 플레이어가 인형 획득 시 그 위치로 이동합니다.
     private IEnumerator DollChase()
     {
-        print("DollChase");
+        //print("DollChase");
 
         anim.SetBool(EnemyAnimState.Walk.ToString(), true);
 
@@ -425,7 +425,7 @@ public class MotherEnemy : MonoBehaviour
     // 게임 끝, 의미없는 클래스입니다.
     private IEnumerator GameEnd()
     {
-        print("Game End");
+        //print("Game End");
 
         anim.SetBool(EnemyAnimState.Walk.ToString(), false);
 
