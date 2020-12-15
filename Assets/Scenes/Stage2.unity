@@ -9667,9 +9667,9 @@ MonoBehaviour:
   approachDis: 4
   sightAngle: 60
   checkSightAngle: 0
-  sightDis: 6
+  sightDis: 0
   checkSightDis: 0
-  soundCatchDis: 15
+  soundCatchDis: 0
   checkSoundCatchDis: 0
   chaseDis: 18
   checkChaseDis: 0
